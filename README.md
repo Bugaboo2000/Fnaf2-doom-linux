@@ -4,14 +4,26 @@ Fnaf2 doom is a *mod made on GZDoom, AKA using the Doom1 engine modified*. This 
 
 <a href=  https://gamejolt.com/games/five-nights-at-freddy-s-2-doom-mod/228163>
 <img src= "https://raw.githubusercontent.com/Bugaboo2000/Fnaf2-doom-linux/main/gamejolt.png" width="200" 
- height="150" div align=>
+ height="80">
 </a>
 
 
 
-### Running🕹️
+### Installing and Running🕹️
 
-You can **Run with Lutris** script or you can Download a [separated file](https://github.com/Bugaboo2000/Fnaf2-doom-linux/releases/tag/1.0) .To run, first open your terminal and type `chmod +x FNAF2.sh FNAF2-Host.sh FNAF2-Join.sh`. After run FNAF2.sh if you want to play single-player. You can download a zipfile only with mods if you want to run in other platforms or run with original [Doom](https://store.steampowered.com/app/2280/Ultimate_Doom/) 
+You can **Run with Lutris** script or you can Download a separated file .To run, first open your terminal and type `chmod +x FNAF2.sh FNAF2-Host.sh FNAF2-Join.sh`. After run FNAF2.sh if you want to play single-player. You can download [a zipfile only with mods](https://github.com/Bugaboo2000/Fnaf2-doom-linux/releases/download/1.0/fnaf2doom.modfiles.zip) if you want to run in other platforms, engines or run with original [Doom](https://store.steampowered.com/app/2280/Ultimate_Doom/) 
+
+<a href= "lutris:freedoom?revision=75180">
+<img src= "https://raw.githubusercontent.com/Bugaboo2000/Fnaf2-doom-linux/main/lutrisscript.png" width="200" 
+ height="80" div align=left>
+
+<img src= "" width="200" 
+ height="80" div align=right>
+
+
+
+
+
 
 
 
