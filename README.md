@@ -11,8 +11,7 @@ Fnaf2 doom is a *mod made on GZDoom, AKA using the Doom1 engine modified*. This 
 
 ### Running🕹️
 
-You can **Run with Lutris** script or you can Download a [separated file](https://github.com/Bugaboo2000/Fnaf2-doom-linux/releases/tag/1.0)
-To run, first open your terminal and type `chmod +x FNAF2.sh FNAF2-Host.sh FNAF2-Join.sh`. After run FNAF2.sh if you want to play single-player
+You can **Run with Lutris** script or you can Download a [separated file](https://github.com/Bugaboo2000/Fnaf2-doom-linux/releases/tag/1.0) .To run, first open your terminal and type `chmod +x FNAF2.sh FNAF2-Host.sh FNAF2-Join.sh`. After run FNAF2.sh if you want to play single-player
 
 
 
