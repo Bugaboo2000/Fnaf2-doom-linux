@@ -18,12 +18,19 @@ You can **Run with Lutris** script or you can Download a [separated file](https:
 
 ### Common issues
 
-If your game showing **Glx erros**, this means that your graphics card does not have **Opengl 3.3 support**. For legacy graphics cards, try running with this [version](https://github.com/Bugaboo2000/Fnaf2-doom-linux/releases/tag/1.0) or run with *Lzdoom*
+If your game showing **Glx errros**, this means that your graphics card does not have **Opengl 3.3 support**. For legacy graphics cards, try running with this [version](https://github.com/Bugaboo2000/Fnaf2-doom-linux/releases/tag/1.0) or run with *Lzdoom*
+
+
+
+#### No Audio🔇
+
+Make sure you have [OpenAL](https://openal.org/) installed 
+
 
 
 #### Disclaimer⚠️
 
-I not modified the original mod files assets, this *modifications is only to run properly on Linux* and work together in Lutris script
+I not modified the original mod files assets, this *modifications is only to run properly on Linux* and work together in Lutris script. Downloading from Source code not work due to 100mb git limitations 
 
 
 
