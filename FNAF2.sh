@@ -1,0 +1,1 @@
+gzdoom +set cl_maxdecals 2147483647 +set movebob 0.05 -IWAD DOOM.WAD -FILE FiveNightsAtFreddys2R.wad FiveNightsAtFreddys2R.pk3
