@@ -22,3 +22,6 @@ NeoGenGamer
 JTE
 Jake Heritagu(Sam Rose)
 Zana Mayo
+
+------Linux Port-------
+Sparky-121

@@ -1,1 +1,0 @@
-gzdoom -IWAD DOOM.WAD +set cl_maxdecals 2147483647 +set movebob 0.05 -FILE FiveNightsAtFreddys2R.wad FiveNightsAtFreddys2R.PK3 -join 666.666.666.667
